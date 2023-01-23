@@ -1,0 +1,37 @@
+{
+       "1": {
+              "name": "shubhangi",
+              "DOB": "25/8/96",
+              "height": "5feet1inch",
+              "city": "mumbai",
+              "state": "maharshtra"
+       },
+       "2": {
+              "name": "priya",
+              "DOB": "11/10/95",
+              "height": "4feet2inch",
+              "city": "panji",
+              "state": "goa"
+       },
+       "3": {
+              "name": "soham",
+              "DOB": "7/9/96",
+              "height": "5feet3inch",
+              "city": "new delhi",
+              "state": "delhi"
+       },
+       "4": {
+              "name": "pravin",
+              "DOB": "14/4/96",
+              "height": "5feet4inch",
+              "city": "nusari",
+              "state": "gujarat"
+       },
+       "5": {
+              "name": "shubham",
+              "DOB": "28/1/97",
+              "height": "5feet9inch",
+              "city": "nashik",
+              "state": "maharashtra"
+       }
+}
